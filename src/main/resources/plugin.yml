@@ -1,0 +1,9 @@
+name: ConversationExample
+main: me.danny.examples.conversations.ConversationExample
+version: 1.0.0
+author: Danny
+api-version: 1.17
+commands:
+  convostart:
+    description: Start the example conversation
+    usage: /<command>
